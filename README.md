@@ -1,0 +1,1 @@
+This repository demonstrates a common closure-related bug in JavaScript loops using setTimeout.  The bug causes all instances of setTimeout to log the final value of 'i', rather than the value at each iteration.  The solution showcases a proper way to capture the value of 'i' using closures.
